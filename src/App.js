@@ -32,7 +32,7 @@ class App extends React.Component {
     return (
       <Router basename={process.env.PUBLIC_URL}>
         <Routes>
-          <Route path="/" element={<Home data={this} />} />
+          <Route exact path="/" element={<Home data={this} />} />
         </Routes>
       </Router>
     );
