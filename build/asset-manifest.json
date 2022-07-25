@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/surpermeyoyo.github.io/static/css/main.5b64b0b9.css",
-    "main.js": "/surpermeyoyo.github.io/static/js/main.d358bfa9.js",
-    "static/js/787.f257add6.chunk.js": "/surpermeyoyo.github.io/static/js/787.f257add6.chunk.js",
-    "index.html": "/surpermeyoyo.github.io/index.html",
-    "main.5b64b0b9.css.map": "/surpermeyoyo.github.io/static/css/main.5b64b0b9.css.map",
-    "main.d358bfa9.js.map": "/surpermeyoyo.github.io/static/js/main.d358bfa9.js.map",
-    "787.f257add6.chunk.js.map": "/surpermeyoyo.github.io/static/js/787.f257add6.chunk.js.map"
+    "main.css": "/surpermeyoyo.github.io/build/static/css/main.5b64b0b9.css",
+    "main.js": "/surpermeyoyo.github.io/build/static/js/main.d358bfa9.js",
+    "static/js/787.f257add6.chunk.js": "/surpermeyoyo.github.io/build/static/js/787.f257add6.chunk.js",
+    "index.html": "/surpermeyoyo.github.io/build/index.html",
+    "main.5b64b0b9.css.map": "/surpermeyoyo.github.io/build/static/css/main.5b64b0b9.css.map",
+    "main.d358bfa9.js.map": "/surpermeyoyo.github.io/build/static/js/main.d358bfa9.js.map",
+    "787.f257add6.chunk.js.map": "/surpermeyoyo.github.io/build/static/js/787.f257add6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b64b0b9.css",
