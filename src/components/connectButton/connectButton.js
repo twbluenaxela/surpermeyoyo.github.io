@@ -3,7 +3,7 @@ import Button from '@mui/material/Button';
 import { onConnect } from "../../utils/wallet";
 import { formatWalletAddress } from "../../utils/util";
 
-import styles from "./connectBotton.module.css";
+import styles from "./connectButton.module.css";
 
 export const ConnectButton = ({ data }) => {
     return (

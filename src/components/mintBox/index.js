@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 
 import { onConnect } from "../../utils/wallet";
-import { ConnectButton } from "../connectButton/connectBotton";
+import { ConnectButton } from "../connectButton/connectButton";
 import { MintBox } from "./box";
 
 import Web3Modal from "web3modal";

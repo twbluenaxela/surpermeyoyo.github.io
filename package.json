@@ -1,7 +1,8 @@
 {
   "name": "mint_helper",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://twbluenaxela.github.io/surpermeyoyo.github.io",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
@@ -31,6 +32,8 @@
     "webpack": "^5.68.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
@@ -58,6 +61,7 @@
     "assert": "^2.0.0",
     "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.0",
+    "gh-pages": "^4.0.0",
     "https-browserify": "^1.0.0",
     "os-browserify": "^0.3.0",
     "process": "^0.11.10",
