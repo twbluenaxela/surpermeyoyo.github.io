@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/surpermeyoyo.github.io/static/css/main.0039d4b2.css",
+    "main.js": "/surpermeyoyo.github.io/static/js/main.07ac4fbe.js",
+    "static/js/787.f257add6.chunk.js": "/surpermeyoyo.github.io/static/js/787.f257add6.chunk.js",
+    "index.html": "/surpermeyoyo.github.io/index.html",
+    "main.0039d4b2.css.map": "/surpermeyoyo.github.io/static/css/main.0039d4b2.css.map",
+    "main.07ac4fbe.js.map": "/surpermeyoyo.github.io/static/js/main.07ac4fbe.js.map",
+    "787.f257add6.chunk.js.map": "/surpermeyoyo.github.io/static/js/787.f257add6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0039d4b2.css",
+    "static/js/main.07ac4fbe.js"
+  ]
+}
